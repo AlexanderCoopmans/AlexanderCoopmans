@@ -24,6 +24,4 @@ I am developing a low-code platform that allows users to create simple multiplay
 
 ## 🛣 Contact
 
-- [GitHub](https://github.com/yourprofile)
-
-Feel free to connect with me or explore my projects!
+- [GitHub](https://github.com/AlexanderCoopmans)
