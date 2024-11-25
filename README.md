@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile
 
-# Hi, I'm Alexander Koopmans!
+# Hi, I'm Alexander Coopmans!
 
 ## About Me
 
