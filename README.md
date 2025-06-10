@@ -23,3 +23,4 @@ I am developing a low-code platform that allows users to create simple multiplay
 
 - [GitHub](https://github.com/AlexanderCoopmans)
 - alexander.coopmans@protonmail.com
+- [LinkedIn](https://www.linkedin.com/in/alexander-coopmans-2286ab235)
