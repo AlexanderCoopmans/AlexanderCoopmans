@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently pursuing a Master degree in **Business Informatics** with a strong interest in **frontend development**. My experience includes working with **JavaScript** and **Python**, where I focus on building intuitive and aesthetically pleasing web applications that enhance user experience. In addition to my academic pursuits, I am keen on exploring the creative aspects of web development and interactive technologies.
+I am currently pursuing a Master degree in **Business Informatics** with a strong interest in **frontend development**. My experience includes working with **JavaScript** and **Python**, where I focus on building intuitive web applications that enhance user experience. In addition to my academic pursuits, I am keen on exploring the creative aspects of web development and interactive technologies.
 
 ## Technologies & Tools
 
